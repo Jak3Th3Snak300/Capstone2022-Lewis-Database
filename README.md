@@ -1,7 +1,7 @@
 
 # **Capstone2022 Lewis Database** #
 
-This is the capstone project that me and three other peers developed prior to my graduation. I wish to take the work we did and continue its development for learning on my own. For details on the releases pleaser scroll past the table below.The original goal of this group project was to create a database that stored ABET standard surveys. These surveys would be organized so that they could be looked up if a faculty member needed to pull a survey to support thier claim on thier leearning outcomes for a specified course.
+This is the capstone project that me and three other peers developed prior to my graduation. I am taking the work we did and continuing its development on my own. For details on the releases please scroll past the table below.The original goal of this group project was to create a database that stored ABET standard surveys. These surveys would be organized so that they could be looked up if a faculty member needed to pull a survey to support thier claim on thier leearning outcomes for a specified course.
 
 
 | **Version** | **Date** | **Rationale** |

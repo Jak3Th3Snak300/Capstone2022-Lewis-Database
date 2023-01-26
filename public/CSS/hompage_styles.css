@@ -1,0 +1,109 @@
+/*Navbar styling*/
+
+.header{
+    width: 100%;
+    font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+    font-weight: 800;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin: auto 0;
+}
+
+.nav-item{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/*Body styling*/
+body{
+    align-items: center;
+}
+
+.middle{
+    width: 80%;
+    margin: 20px auto 0 auto;
+}
+
+table{
+   table-layout: auto;
+   width: 100%;
+   border: 2px solid black;
+   border-collapse: collapse;
+}
+
+td, tr{
+    width: auto;
+}
+
+tbody tr:nth-child(odd){
+    background-color: rgba(117, 123, 130, 0.146);
+    color: black;
+}
+
+#upload_link{
+    color: black;
+    text-decoration: none;
+}
+
+#upload_link:hover{
+    color: gray;
+}
+
+#download_link{
+    color: black;
+    text-decoration: none;
+}
+
+#download_link:hover{
+    color: grey;
+}
+
+select{
+    border: none;
+}
+
+.btn{
+    color: black;
+    border-color: black;
+    font-weight: 800;
+}
+
+#uploadModal {
+  margin-top: 10px;
+  margin-bottom:10px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-bottom:20px;
+  border-radius: 250px;
+}
+
+.learningOutcomes {
+    line-height: 1.5;
+    padding-top: 10px;
+}
+
+.evidenceLine {
+    line-height: 1.5;
+}
+
+.assessmentLine {
+    line-height: 1.5;
+}
+
+.className {
+    line-height: 1.5;
+}
+
+.modal::before{
+    max-width: 40%;
+    background-color: white;
+    vertical-align: middle;
+}
+
+#closebutton{
+    color: black;
+}
